@@ -573,9 +573,9 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## 📞 Contact
 
 Pour toute question ou suggestion:
-- 📧 Email: votre@email.com
-- 🐛 Issues: [GitHub Issues](lien-vers-issues)
-- 💬 Discussions: [GitHub Discussions](lien-vers-discussions)
+- 📧 Email: marweenn.N@outlook.com
+- 🐛 Issues: [GitHub Issues](https://github.com/Maaar31/jarvis/issues)
+
 
 ---
 
