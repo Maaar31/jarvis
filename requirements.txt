@@ -1,0 +1,16 @@
+ollama
+torch
+transformers
+accelerate
+bitsandbytes
+wikipedia
+google-api-python-client
+termcolor
+rich
+psutil
+pyautogui
+pillow
+googlesearch-python
+requests
+beautifulsoup4
+duckduckgo-search
