@@ -122,7 +122,7 @@ graph TD
 
 - ✅ Windows 10/11
 - ✅ macOS (10.15+)
-- ✅ Linux (Ubuntu 20.04+, Debian, Fedora)
+- ✅ GNU/Linux 
 
 ### Matériel Recommandé
 
